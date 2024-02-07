@@ -1,0 +1,24 @@
+{
+  "name": "kafka_consumer",
+  "version": "1.0.0",
+  "description": "This is kafka consumer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swatib91/kafka-consumer.git"
+  },
+  "author": "Swati Bhaip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Swatib91/kafka-consumer/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/Swatib91/kafka-consumer#readme",
+  "dependencies": {
+    "kafkajs": "^2.2.4",
+    "mongoose": "^8.1.1"
+  }
+}
